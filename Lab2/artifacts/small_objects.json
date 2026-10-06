@@ -1,0 +1,7 @@
+{
+  "area_threshold": 8975.5,
+  "num_small_val": 103,
+  "total_val": 736,
+  "foreground_iou_baseline": 0.7250283952298658,
+  "foreground_iou_augmented": 0.6764508887042159
+}

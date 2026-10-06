@@ -1,0 +1,6 @@
+{
+  "sigma": 0.1,
+  "clean_accuracy": 0.8987,
+  "noisy_accuracy": 0.7892,
+  "num_errors": 2108
+}

@@ -1,0 +1,38 @@
+[
+  {
+    "mode": "frozen",
+    "arch": "resnet18",
+    "time_sec": 1779.3156113624573,
+    "best_val_accuracy": 0.6602666666666667,
+    "best_val_macro_f1": 0.6593881049009409,
+    "trainable_params": 5130,
+    "trainable_ratio": 0.00045878771650889914
+  },
+  {
+    "mode": "partial",
+    "arch": "resnet18",
+    "time_sec": 2246.3222002983093,
+    "best_val_accuracy": 0.8357333333333333,
+    "best_val_macro_f1": 0.8364335802452265,
+    "trainable_params": 8398858,
+    "trainable_ratio": 0.7511292169790448
+  },
+  {
+    "mode": "full",
+    "arch": "resnet18",
+    "time_sec": 3515.9234676361084,
+    "best_val_accuracy": 0.8901333333333333,
+    "best_val_macro_f1": 0.8905941812081339,
+    "trainable_params": 11181642,
+    "trainable_ratio": 1.0
+  },
+  {
+    "mode": "full",
+    "arch": "efficientnet_b0",
+    "time_sec": 3684.385799407959,
+    "best_val_accuracy": 0.8826666666666667,
+    "best_val_macro_f1": 0.8827565621790914,
+    "trainable_params": 4020358,
+    "trainable_ratio": 1.0
+  }
+]

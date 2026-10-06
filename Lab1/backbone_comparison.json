@@ -1,0 +1,5 @@
+{
+  "resnet18_best_mode": "full",
+  "resnet18_best_val_f1": 0.8905941812081339,
+  "efficientnet_b0_full_val_f1": 0.8827565621790914
+}

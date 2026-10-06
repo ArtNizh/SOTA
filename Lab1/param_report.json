@@ -1,0 +1,22 @@
+{
+  "resnet18_frozen": {
+    "total": 11181642,
+    "trainable": 5130,
+    "ratio": 0.00045878771650889914
+  },
+  "resnet18_partial": {
+    "total": 11181642,
+    "trainable": 8398858,
+    "ratio": 0.7511292169790448
+  },
+  "resnet18_full": {
+    "total": 11181642,
+    "trainable": 11181642,
+    "ratio": 1.0
+  },
+  "efficientnet_b0_full": {
+    "total": 4020358,
+    "trainable": 4020358,
+    "ratio": 1.0
+  }
+}

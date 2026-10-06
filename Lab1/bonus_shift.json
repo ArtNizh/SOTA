@@ -1,0 +1,25 @@
+{
+  "transform": "gamma=1.8, brightness_shift=0.15",
+  "clean_accuracy": 0.8987,
+  "transformed_accuracy": 0.8717,
+  "examples": [
+    {
+      "index": 5,
+      "clean_pred": 6,
+      "transformed_pred": 3,
+      "target": 6
+    },
+    {
+      "index": 20,
+      "clean_pred": 7,
+      "transformed_pred": 5,
+      "target": 7
+    },
+    {
+      "index": 52,
+      "clean_pred": 7,
+      "transformed_pred": 0,
+      "target": 0
+    }
+  ]
+}

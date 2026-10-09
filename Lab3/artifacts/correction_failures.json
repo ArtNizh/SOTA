@@ -1,0 +1,79 @@
+[
+  {
+    "idx": 415,
+    "iou_sam": 0.35619544276655757,
+    "iou_supervised": 0.6078910286887843,
+    "iou_corrected": 0.27285531379348843,
+    "delta_correction": -0.08334012897306914
+  },
+  {
+    "idx": 1671,
+    "iou_sam": 0.6223175965896801,
+    "iou_supervised": 0.79771625415937,
+    "iou_corrected": 0.5560401797808591,
+    "delta_correction": -0.06627741680882104
+  },
+  {
+    "idx": 1352,
+    "iou_sam": 0.44231333795456373,
+    "iou_supervised": 0.8640316205667953,
+    "iou_corrected": 0.3792660747427767,
+    "delta_correction": -0.06304726321178705
+  },
+  {
+    "idx": 184,
+    "iou_sam": 0.302010112242508,
+    "iou_supervised": 0.6670086426765215,
+    "iou_corrected": 0.2507638447087599,
+    "delta_correction": -0.05124626753374811
+  },
+  {
+    "idx": 1106,
+    "iou_sam": 0.8735211750658101,
+    "iou_supervised": 0.8541966426945925,
+    "iou_corrected": 0.8254693977185157,
+    "delta_correction": -0.04805177734729438
+  },
+  {
+    "idx": 2730,
+    "iou_sam": 0.8735694494715354,
+    "iou_supervised": 0.8729236405057207,
+    "iou_corrected": 0.8474718196555574,
+    "delta_correction": -0.026097629815977963
+  },
+  {
+    "idx": 463,
+    "iou_sam": 0.7030970165682481,
+    "iou_supervised": 0.799972095628315,
+    "iou_corrected": 0.6784779914775564,
+    "delta_correction": -0.024619025090691693
+  },
+  {
+    "idx": 1313,
+    "iou_sam": 0.760803059319158,
+    "iou_supervised": 0.793842034851887,
+    "iou_corrected": 0.7377574371309479,
+    "delta_correction": -0.023045622188210158
+  },
+  {
+    "idx": 2668,
+    "iou_sam": 0.7739574090561482,
+    "iou_supervised": 0.9049787931389778,
+    "iou_corrected": 0.7573576826908778,
+    "delta_correction": -0.016599726365270406
+  },
+  {
+    "idx": 1807,
+    "iou_sam": 0.8491465171179378,
+    "iou_supervised": 0.8385740432364573,
+    "iou_corrected": 0.8382153219359495,
+    "delta_correction": -0.010931195181988262
+  },
+  {
+    "idx": 70,
+    "iou_sam": 0.41829575643307004,
+    "iou_supervised": 0.7971456216837375,
+    "iou_corrected": 0.4156981723125028,
+    "delta_correction": -0.0025975841205672645
+  }
+]

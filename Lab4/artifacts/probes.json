@@ -1,0 +1,8 @@
+{
+  "best_k": 5,
+  "best_C": 1.0,
+  "knn_test_acc": 0.9718,
+  "knn_test_macro_f1": 0.9718004088423987,
+  "linear_test_acc": 0.9745,
+  "linear_test_macro_f1": 0.9745031356995218
+}

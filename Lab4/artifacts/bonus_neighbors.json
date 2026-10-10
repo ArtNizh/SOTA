@@ -1,0 +1,344 @@
+{
+  "queries": [
+    {
+      "test_idx": 2383,
+      "true_label": 2,
+      "true_class_name": "bird",
+      "purity": 0.0,
+      "neighbor_train_global_idx": [
+        37036,
+        27536,
+        1398,
+        45262,
+        13616
+      ],
+      "neighbor_labels": [
+        8,
+        8,
+        8,
+        0,
+        8
+      ],
+      "neighbor_class_names": [
+        "ship",
+        "ship",
+        "ship",
+        "airplane",
+        "ship"
+      ],
+      "neighbor_sim": [
+        0.750434398651123,
+        0.7474198937416077,
+        0.7473692893981934,
+        0.7156065702438354,
+        0.7135120630264282
+      ]
+    },
+    {
+      "test_idx": 9918,
+      "true_label": 5,
+      "true_class_name": "dog",
+      "purity": 0.0,
+      "neighbor_train_global_idx": [
+        34380,
+        24080,
+        45385,
+        33507,
+        8752
+      ],
+      "neighbor_labels": [
+        7,
+        4,
+        6,
+        4,
+        7
+      ],
+      "neighbor_class_names": [
+        "horse",
+        "deer",
+        "frog",
+        "deer",
+        "horse"
+      ],
+      "neighbor_sim": [
+        0.7494177222251892,
+        0.7381054759025574,
+        0.7316203117370605,
+        0.730704128742218,
+        0.7302805185317993
+      ]
+    },
+    {
+      "test_idx": 9910,
+      "true_label": 4,
+      "true_class_name": "deer",
+      "purity": 0.0,
+      "neighbor_train_global_idx": [
+        15433,
+        17805,
+        30203,
+        26733,
+        30556
+      ],
+      "neighbor_labels": [
+        7,
+        7,
+        7,
+        7,
+        7
+      ],
+      "neighbor_class_names": [
+        "horse",
+        "horse",
+        "horse",
+        "horse",
+        "horse"
+      ],
+      "neighbor_sim": [
+        0.8506783843040466,
+        0.8262881636619568,
+        0.8123646974563599,
+        0.8122103214263916,
+        0.8118582367897034
+      ]
+    },
+    {
+      "test_idx": 46,
+      "true_label": 3,
+      "true_class_name": "cat",
+      "purity": 0.0,
+      "neighbor_train_global_idx": [
+        350,
+        33018,
+        40261,
+        23339,
+        41491
+      ],
+      "neighbor_labels": [
+        6,
+        6,
+        6,
+        6,
+        6
+      ],
+      "neighbor_class_names": [
+        "frog",
+        "frog",
+        "frog",
+        "frog",
+        "frog"
+      ],
+      "neighbor_sim": [
+        0.8083735108375549,
+        0.8019660711288452,
+        0.7999351620674133,
+        0.7956669926643372,
+        0.7942599654197693
+      ]
+    },
+    {
+      "test_idx": 9981,
+      "true_label": 4,
+      "true_class_name": "deer",
+      "purity": 0.0,
+      "neighbor_train_global_idx": [
+        29899,
+        36987,
+        47387,
+        12476,
+        47607
+      ],
+      "neighbor_labels": [
+        7,
+        7,
+        7,
+        7,
+        7
+      ],
+      "neighbor_class_names": [
+        "horse",
+        "horse",
+        "horse",
+        "horse",
+        "horse"
+      ],
+      "neighbor_sim": [
+        0.8816384077072144,
+        0.870604395866394,
+        0.8672351837158203,
+        0.8598267436027527,
+        0.858211874961853
+      ]
+    },
+    {
+      "test_idx": 2408,
+      "true_label": 2,
+      "true_class_name": "bird",
+      "purity": 0.0,
+      "neighbor_train_global_idx": [
+        9586,
+        3997,
+        24817,
+        27920,
+        42509
+      ],
+      "neighbor_labels": [
+        5,
+        3,
+        3,
+        3,
+        6
+      ],
+      "neighbor_class_names": [
+        "dog",
+        "cat",
+        "cat",
+        "cat",
+        "frog"
+      ],
+      "neighbor_sim": [
+        0.7829279899597168,
+        0.7726590633392334,
+        0.7657896280288696,
+        0.7588332295417786,
+        0.7426488399505615
+      ]
+    },
+    {
+      "test_idx": 9812,
+      "true_label": 3,
+      "true_class_name": "cat",
+      "purity": 0.0,
+      "neighbor_train_global_idx": [
+        7257,
+        42620,
+        21665,
+        28857,
+        11461
+      ],
+      "neighbor_labels": [
+        6,
+        5,
+        8,
+        5,
+        8
+      ],
+      "neighbor_class_names": [
+        "frog",
+        "dog",
+        "ship",
+        "dog",
+        "ship"
+      ],
+      "neighbor_sim": [
+        0.7396550178527832,
+        0.7321609258651733,
+        0.7265055179595947,
+        0.7259069681167603,
+        0.7165599465370178
+      ]
+    },
+    {
+      "test_idx": 1308,
+      "true_label": 5,
+      "true_class_name": "dog",
+      "purity": 0.0,
+      "neighbor_train_global_idx": [
+        20773,
+        26754,
+        35601,
+        27568,
+        20646
+      ],
+      "neighbor_labels": [
+        7,
+        4,
+        4,
+        7,
+        7
+      ],
+      "neighbor_class_names": [
+        "horse",
+        "deer",
+        "deer",
+        "horse",
+        "horse"
+      ],
+      "neighbor_sim": [
+        0.6710983514785767,
+        0.6691014766693115,
+        0.6533204317092896,
+        0.6501412391662598,
+        0.6365083456039429
+      ]
+    },
+    {
+      "test_idx": 5607,
+      "true_label": 6,
+      "true_class_name": "frog",
+      "purity": 0.0,
+      "neighbor_train_global_idx": [
+        28919,
+        14482,
+        28238,
+        20555,
+        30002
+      ],
+      "neighbor_labels": [
+        0,
+        0,
+        2,
+        0,
+        0
+      ],
+      "neighbor_class_names": [
+        "airplane",
+        "airplane",
+        "bird",
+        "airplane",
+        "airplane"
+      ],
+      "neighbor_sim": [
+        0.7619982957839966,
+        0.713766872882843,
+        0.7090970873832703,
+        0.694312334060669,
+        0.6904527544975281
+      ]
+    },
+    {
+      "test_idx": 5690,
+      "true_label": 7,
+      "true_class_name": "horse",
+      "purity": 0.0,
+      "neighbor_train_global_idx": [
+        22173,
+        7139,
+        8417,
+        19510,
+        3957
+      ],
+      "neighbor_labels": [
+        4,
+        5,
+        4,
+        4,
+        4
+      ],
+      "neighbor_class_names": [
+        "deer",
+        "dog",
+        "deer",
+        "deer",
+        "deer"
+      ],
+      "neighbor_sim": [
+        0.7759675979614258,
+        0.7605972290039062,
+        0.7514095902442932,
+        0.7488982081413269,
+        0.7487858533859253
+      ]
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ensemble": {
+    "per_class": {
+      "airplane": {
+        "precision@10": 1.0,
+        "recall@10": 0.01
+      },
+      "automobile": {
+        "precision@10": 1.0,
+        "recall@10": 0.01
+      },
+      "bird": {
+        "precision@10": 1.0,
+        "recall@10": 0.01
+      },
+      "cat": {
+        "precision@10": 0.9,
+        "recall@10": 0.009
+      },
+      "deer": {
+        "precision@10": 1.0,
+        "recall@10": 0.01
+      },
+      "dog": {
+        "precision@10": 0.8,
+        "recall@10": 0.008
+      },
+      "frog": {
+        "precision@10": 1.0,
+        "recall@10": 0.01
+      },
+      "horse": {
+        "precision@10": 1.0,
+        "recall@10": 0.01
+      },
+      "ship": {
+        "precision@10": 1.0,
+        "recall@10": 0.01
+      },
+      "truck": {
+        "precision@10": 0.7,
+        "recall@10": 0.007
+      }
+    },
+    "mean_precision@10": 0.9399999999999998,
+    "mean_recall@10": 0.009400000000000002
+  }
+}

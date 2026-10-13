@@ -1,0 +1,58 @@
+{
+  "best": {
+    "class": "truck",
+    "precision@10": 1.0,
+    "indices": [
+      222,
+      2158,
+      609,
+      9312,
+      6377,
+      1287,
+      9545,
+      9037,
+      5308,
+      9270
+    ],
+    "true_labels": [
+      "truck",
+      "truck",
+      "truck",
+      "truck",
+      "truck",
+      "truck",
+      "truck",
+      "truck",
+      "truck",
+      "truck"
+    ]
+  },
+  "worst": {
+    "class": "airplane",
+    "precision@10": 1.0,
+    "indices": [
+      4028,
+      2373,
+      1726,
+      3971,
+      7987,
+      7289,
+      2792,
+      6437,
+      5220,
+      4419
+    ],
+    "true_labels": [
+      "airplane",
+      "airplane",
+      "airplane",
+      "airplane",
+      "airplane",
+      "airplane",
+      "airplane",
+      "airplane",
+      "airplane",
+      "airplane"
+    ]
+  }
+}

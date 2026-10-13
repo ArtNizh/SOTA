@@ -1,1 +1,7 @@
 *.pt
+*.pyc
+.venv311/
+.venv/
+venv/
+env/
+ENV/

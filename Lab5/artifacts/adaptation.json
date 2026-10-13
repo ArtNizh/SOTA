@@ -1,0 +1,6 @@
+{
+  "baseline_accuracy": 0.8551999926567078,
+  "adapted_accuracy": 0.9354000091552734,
+  "baseline_mean_precision@10": 0.9399999999999998,
+  "adapted_mean_precision@10": 1.0
+}

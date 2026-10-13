@@ -1,0 +1,21 @@
+{
+  "per_class": {
+    "airplane": 0.0,
+    "automobile": 0.0,
+    "bird": 0.0,
+    "cat": 0.09999999999999998,
+    "deer": 0.0,
+    "dog": 0.19999999999999996,
+    "frog": 0.0,
+    "horse": 0.0,
+    "ship": 0.0,
+    "truck": 0.30000000000000004
+  },
+  "mean_delta": 0.06,
+  "improved": [
+    "cat",
+    "dog",
+    "truck"
+  ],
+  "worsened": []
+}

@@ -1,0 +1,18 @@
+{
+  "n_total": 20,
+  "n_reviewed": 20,
+  "n_pending": 0,
+  "review_complete": true,
+  "error_type_counts": {
+    "hallucination": 11,
+    "refusal": 3,
+    "ocr": 1,
+    "counting": 5
+  },
+  "correctness_counts": {
+    "0": 19,
+    "1": 1,
+    "2": 0
+  },
+  "is_preliminary": false
+}

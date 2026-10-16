@@ -1,0 +1,54 @@
+[
+  {
+    "source": "https://huggingface.co/datasets/allenai/pixmo-ask-model-anything",
+    "source_row": 2,
+    "image": "C:\\Users\\SuperXoma\\Downloads\\SOTA\\data\\lab06\\pixmo-ask-model-anything-default-train-2.jpg",
+    "reference": "This vehicle is a paratrike. It's a unique aircraft that combines features of a plane, boat, and parachute. The front resembles a boat with a windshield and seat, while the rear has a propeller for thrust. Its most distinctive feature is the large parachute on top, which provides lift. Paratrikes can take off vertically and potentially land on water, offering versatility in their operation.",
+    "variants": [
+      {
+        "variant": "original",
+        "question": "What kind of vehicle is this?",
+        "answer": "car",
+        "latency_s": 0.7146304999914719
+      },
+      {
+        "variant": "short",
+        "question": "What kind of vehicle is this? Answer with a single word.",
+        "answer": "Car",
+        "latency_s": 0.3003649000020232
+      },
+      {
+        "variant": "focused",
+        "question": "Look carefully at the image. What kind of vehicle is this? Be precise.",
+        "answer": "bus",
+        "latency_s": 0.2956237000034889
+      }
+    ]
+  },
+  {
+    "source": "https://huggingface.co/datasets/allenai/pixmo-ask-model-anything",
+    "source_row": 5,
+    "image": "C:\\Users\\SuperXoma\\Downloads\\SOTA\\data\\lab06\\pixmo-ask-model-anything-default-train-5.jpg",
+    "reference": "This image shows a model of a G6 howitzer, a self-propelled artillery vehicle. It's a large, eight-wheeled armored fighting vehicle designed for desert operations. The model features a camouflage paint scheme and typical military characteristics. The corner of the image displays a logo reading \"3D Humster 3D AFV #050,\" indicating this is a 3D model representation of the G6 howitzer.",
+    "variants": [
+      {
+        "variant": "original",
+        "question": "What is this a model of in this image?",
+        "answer": "boat",
+        "latency_s": 0.40764789999229833
+      },
+      {
+        "variant": "short",
+        "question": "What is this a model of in this image? Answer with a single word.",
+        "answer": "boat",
+        "latency_s": 0.40959409999777563
+      },
+      {
+        "variant": "focused",
+        "question": "Look carefully at the image. What is this a model of in this image? Be precise.",
+        "answer": "boat",
+        "latency_s": 0.4208301000035135
+      }
+    ]
+  }
+]

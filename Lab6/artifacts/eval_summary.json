@@ -1,0 +1,77 @@
+{
+  "model_id": "Qwen/Qwen2-VL-2B-Instruct",
+  "device": "cuda",
+  "quantization": "nf4",
+  "max_image_side": 768,
+  "n_examples": 20,
+  "n_predictions": 20,
+  "scores_per_category": {
+    "caption": 0.016786185628097396,
+    "open_vqa": 0.0,
+    "document_qa": 0.2,
+    "object_count_json": 0.5
+  },
+  "mean_score_overall": 0.17919654640702434,
+  "latency_by_config": {
+    "baseline": {
+      "n": 20,
+      "median_s": 0.9028003500061459,
+      "p95_s": 1.7612266549964262,
+      "mean_s": 1.0124689800009947
+    },
+    "verbose": {
+      "n": 20,
+      "median_s": 2.1716918500023894,
+      "p95_s": 3.4900011099947754,
+      "mean_s": 2.1761434300002294
+    },
+    "sampling": {
+      "n": 20,
+      "median_s": 0.9126308000049903,
+      "p95_s": 1.631684185001359,
+      "mean_s": 1.0146430699998745
+    },
+    "highres": {
+      "n": 20,
+      "median_s": 0.9418039999945904,
+      "p95_s": 1.607486424988747,
+      "mean_s": 1.0172166100004687
+    }
+  },
+  "manual_review": {
+    "n_total": 20,
+    "n_reviewed": 20,
+    "n_pending": 0,
+    "error_counts": {
+      "hallucination": 11,
+      "refusal": 3,
+      "ocr": 1,
+      "counting": 5
+    },
+    "correctness_counts": {
+      "0": 19,
+      "1": 1,
+      "2": 0
+    },
+    "is_preliminary": false
+  },
+  "ablation_quality": {
+    "baseline": {
+      "n": 10,
+      "em": 0.1
+    },
+    "verbose": {
+      "n": 10,
+      "em": 0.1
+    },
+    "sampling": {
+      "n": 10,
+      "em": 0.1
+    },
+    "highres": {
+      "n": 10,
+      "em": 0.1
+    }
+  },
+  "note": "полный запуск"
+}

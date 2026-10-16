@@ -1,0 +1,48 @@
+{
+  "per_category": {
+    "caption": [
+      0.0,
+      0.023809523809523808,
+      0.0234375,
+      0.014705882352941176,
+      0.02197802197802198
+    ],
+    "open_vqa": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "document_qa": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "object_count_json": [
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5
+    ]
+  },
+  "overall": {
+    "n": 20,
+    "mean_score": 0.17919654640702434,
+    "per_category_mean": {
+      "caption": 0.016786185628097396,
+      "open_vqa": 0.0,
+      "document_qa": 0.2,
+      "object_count_json": 0.5
+    },
+    "per_category_n": {
+      "caption": 5,
+      "open_vqa": 5,
+      "document_qa": 5,
+      "object_count_json": 5
+    }
+  }
+}

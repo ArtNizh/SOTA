@@ -1,0 +1,27 @@
+[
+  {
+    "raw": "{\"class_name\": \"dog\", \"caption\": \"a brown dog\", \"u",
+    "passed": true,
+    "expected": true
+  },
+  {
+    "raw": "```json\n{\"class_name\": \"dog\", \"caption\": \"a brown ",
+    "passed": true,
+    "expected": true
+  },
+  {
+    "raw": "{\"class_name\": \"dog\", \"caption\": \"\", \"uncertain\": ",
+    "passed": false,
+    "expected": false
+  },
+  {
+    "raw": "{\"class_name\": \"dragon\", \"caption\": \"a dragon\", \"u",
+    "passed": false,
+    "expected": false
+  },
+  {
+    "raw": "not json at all",
+    "passed": false,
+    "expected": false
+  }
+]

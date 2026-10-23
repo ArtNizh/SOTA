@@ -1,6 +1,7 @@
 *.pt
 *.npz
 *.pyc
+*.zip
 .venv311/
 .venv/
 venv/

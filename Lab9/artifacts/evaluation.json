@@ -1,0 +1,23 @@
+{
+  "id_test": {
+    "n": 64,
+    "base_exact_match": 0.875,
+    "sft_exact_match": 0.90625,
+    "delta": 0.03125,
+    "sft_empty_predictions": 0
+  },
+  "ood_test": {
+    "n": 64,
+    "base_exact_match": 0.609375,
+    "sft_exact_match": 0.65625,
+    "delta": 0.046875,
+    "sft_empty_predictions": 0
+  },
+  "general_test": {
+    "n": 64,
+    "base_exact_match": 0.859375,
+    "sft_exact_match": 0.796875,
+    "delta": -0.0625,
+    "sft_empty_predictions": 6
+  }
+}

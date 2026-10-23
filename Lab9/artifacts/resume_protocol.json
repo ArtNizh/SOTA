@@ -1,0 +1,5 @@
+{
+  "selected_checkpoint": null,
+  "mode": "fresh_start",
+  "explanation": "Загрузка весов (adapter_model.safetensors) восстанавливает обученные LoRA-матрицы, но не состояние оптимизатора. Полное возобновление (resume) требует trainer_state.json с шагом и состоянием Adam; LLaMA-Factory использует resume_from_checkpoint для этого. Если checkpoint отсутствует — запуск с нуля."
+}
